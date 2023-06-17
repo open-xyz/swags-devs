@@ -5,5 +5,6 @@
 
 | Project            | Description                     | Link       |
 |--------------------|:--------------------------------|-----------:|
-| Juicy Apples       |  1.99                           |        739 |
+| QuestDB       |  Submit a bugfix, feature or any other meaningful contribution via bug report or pull request with a reproducer and get a QuestDB tshirt 
+                          |        739 |
 | Bananas            |  1.89                           |          6 |
