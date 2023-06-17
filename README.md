@@ -5,5 +5,5 @@
 
 | Project | Description                                                                                                                             | Github Link |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| QuestDB | Submit a bugfix, feature or any other meaningful contribution via bug report or pull request with a reproducer and get a QuestDB tshirt |[Link](https://github.com/questdb/questdb)     |
+| QuestDB | Submit a bugfix, feature or any other meaningful contribution via bug report or pull request with a reproducer and get a QuestDB tshirt |   [Link](https://github.com/questdb/questdb)     |
 |         |                                                                                                                                         |      |
