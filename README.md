@@ -6,6 +6,5 @@
 | Project | Description                                                                                                                             |  Github Link  |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | QuestDB | Submit a bugfix, feature or any other meaningful contribution via bug report or pull request with a reproducer and get a QuestDB tshirt |   [Link](https://github.com/questdb/questdb)     |
-|**MindsDB**|**You can earn rewards by contributing to MindsDB and earn SWAG credits which you can use to purchase SWAG on our MindsDB SWAG store.**
-:-----:|:-----:
-Gatsby|If you contribute to the Gatsby organization on GitHub, you can claim your swag by logging into the Gatsby Store and requesting a discount code. With five or more contributions, you can claim your Level 2 swag.
+| MindsDB | You can earn rewards by contributing to MindsDB and earn SWAG credits which you can use to purchase SWAG on our MindsDB SWAG store.                                                                                                               |  |
+| Gatsby  | If you contribute to the Gatsby organization on GitHub, you can claim your swag by [logging into the Gatsby Store](https://store.gatsbyjs.org/) and requesting a discount code. With five or more contributions, you can claim your Level 2 swag. |  |
