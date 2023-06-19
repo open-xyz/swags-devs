@@ -12,5 +12,6 @@
 | IHP |	Tasks to do: Nothing, Swag: Stickers. Just star the repo and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSf7XHkba-mn3GNIsh5n4ftB7hlHmRx9zluicvSKDKU5Z-jJKg/viewform)|	[Link](https://github.com/digitallyinduced/ihp) |
 | JSBin |	Tasks to do: Nothing, Swag: Stickers. You’ll need to fill out the Google form with your name and address, and they will send you a few sticker on our next mail out. [Form](https://docs.google.com/forms/d/e/1FAIpQLSeQ_PflKvabBLmdlHPOeBkD30aRs14yNGfvcaErpys_YSKXBA/viewform)|	[Link](https://jsbin.com/help/stickers/) |
 | Alligator |	Tasks to do: Write blog post, Swag: Stickers. Here are a portion of the subjects choices you can compose on:Vue.js, Angular, Preact, React, React Native |	[Link](https://alligator.io) |
-
+| RedWoodJS |	Tasks to do: Nothing, Swag: Stickers. You just have to give your address and each week they pick upto 100 entries ad give out stockers, shipped to anywhere in the world for free.|	[Link](https://redwoodjs.com/stickers) |
+| Kong |	Tasks to do: Get 1 pull request merged, Swag: T-shirts. After your Pull Request gets accepted, then you gotta fill this [Form]([goo.gl/forms/5w6mxLaE4tz2YM0L2](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform)) |	[Link](https://redwoodjs.com/stickers) | [Link](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt) |
 
