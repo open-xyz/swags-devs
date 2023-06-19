@@ -9,3 +9,6 @@
 | QuestDB | Submit a bugfix, feature or any other meaningful contribution via bug report or pull request with a reproducer and get a QuestDB tshirt |   [Link](https://github.com/questdb/questdb)     |
 | MindsDB | You can earn rewards by contributing to MindsDB and earn SWAG credits which you can use to purchase SWAG on our MindsDB SWAG store. [SourceLink](https://mindsdb.com/community)                                                                                                              | [Link](https://github.com/mindsdb/mindsdb) |
 | Gatsby  | If you contribute to the Gatsby organization on GitHub, you can claim your swag by [logging into the Gatsby Store](https://store.gatsbyjs.org/) and requesting a discount code. With five or more contributions, you can claim your Level 2 swag. | [Link](https://github.com/gatsbyjs/gatsby) |
+| IHP |	Tasks to do: Nothing, Swag: Stickers Just star the repo and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSf7XHkba-mn3GNIsh5n4ftB7hlHmRx9zluicvSKDKU5Z-jJKg/viewform)|	[Link](https://github.com/digitallyinduced/ihp) |
+
+
