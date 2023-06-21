@@ -1,10 +1,9 @@
 # 🎁 FREE SWAGS FOR DEVELOPERS 🎁
----
 
 Welcome to our collection of open source projects that offer swag 👕🧢 rewards to their contributors! We all love contributing to open source projects, but it's even better when we can get cool swag in return 🤩 
 Right?
 
-## Checkout this cool 😎 projects that offers some awesome swags as a token of appreciation to their contributors✨
+## 😎 Checkout this cool projects that offers some awesome swags as a token of appreciation to their contributors✨
 
 ![swags-devs](https://socialify.git.ci/open-xyz/swags-devs/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
