@@ -4,7 +4,8 @@
 Welcome to our collection of open source projects that offer swag 👕🧢 rewards to their contributors! We all love contributing to open source projects, but it's even better when we can get cool swag in return 🤩 
 Right?
 
-![image](https://github.com/Poonam1607/swags-devs/assets/80185070/52ba093a-49fb-45ec-85aa-a3443a30587b)
+![image](https://github.com/Poonam1607/swags-devs/assets/80185070/12d246a4-6dc3-4e54-988f-33379dc4293c)
+
 
 
 Checkout this cool 😎 projects that offers some awesome swags as a token of appreciation to their contributors✨
