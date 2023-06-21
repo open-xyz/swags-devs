@@ -1,5 +1,14 @@
-# FREE SWAGS FOR DEVELOPERS
+# 🎁 FREE SWAGS FOR DEVELOPERS 🎁
 ---
+
+Welcome to our collection of open source projects that offer swag 👕🧢 rewards to their contributors! We all love contributing to open source projects, but it's even better when we can get cool swag in return 🤩 
+Right?
+
+![image](https://github.com/Poonam1607/swags-devs/assets/80185070/12d246a4-6dc3-4e54-988f-33379dc4293c)
+
+
+
+## Checkout this cool 😎 projects that offers some awesome swags as a token of appreciation to their contributors✨
 
 ![swags-devs](https://socialify.git.ci/open-xyz/swags-devs/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
@@ -14,4 +23,10 @@
 | Alligator |	Tasks to do: Write blog post, Swag: Stickers. Here are a portion of the subjects choices you can compose on:Vue.js, Angular, Preact, React, React Native |	[Link](https://alligator.io) |
 | RedWoodJS |	Tasks to do: Nothing, Swag: Stickers. You just have to give your address and each week they pick upto 100 entries ad give out stickers, shipped to anywhere in the world for free.|	[Link](https://redwoodjs.com/stickers) |
 | Kong |	Tasks to do: Get 1 pull request merged, Swag: T-shirts. After your Pull Request gets accepted, then you gotta fill this [Form]([goo.gl/forms/5w6mxLaE4tz2YM0L2](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform)) | [Link](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt) |
+
+---
+
+There are plenty more projects out there that offer swag rewards, so if you know of any that aren't on our list, feel free to contribute to this repository and add them!
+
+## So, what are you waiting for? Start contributing and get some awesome swag in return! 🎉
 
