@@ -19,7 +19,7 @@ Right?
 | RedWoodJS |	Tasks to do: Nothing, Swag: Stickers. You just have to give your address and each week they pick upto 100 entries ad give out stickers, shipped to anywhere in the world for free.|	[Link](https://redwoodjs.com/stickers) |
 | Kong |	Tasks to do: Get 1 pull request merged, Swag: T-shirts. After your Pull Request gets accepted, then you gotta fill this [Form]([goo.gl/forms/5w6mxLaE4tz2YM0L2](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform)) | [Link](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt) |
 
----
+
 
 There are plenty more projects out there that offer swag rewards, so if you know of any that aren't on our list, feel free to contribute to this repository and add them!
 
